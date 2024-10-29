@@ -1,4 +1,4 @@
-<div align="center"><h1>🌈LizAgents</h1></div>
+<div align="center"><h1>LizAgents</h1></div>
 
 ## 🌷 Features
 ### 🦄Vision Agent
